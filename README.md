@@ -2,7 +2,7 @@
 
 This is a repository that aims to help new open source Android apps to emerge.
 
-In my experience, it is very difficult to promote your project if you don't have a good following on social networks. Google Play Store and GitHub have trending pages, but, obviously, these pages contains only apps with thousands of downloads. The only way to discover new projects is to look at [recently updated repository in Android topic on GitHub](https://github.com/topics/android?o=desc&s=updated)
+In my experience, it is very difficult to promote your project if you don't have a good following on social networks. Google Play Store and GitHub have trending pages, but, obviously, these pages contains only apps with thousands of downloads. The only way to discover new projects is to look at [recently updated repositories in Android topic on GitHub](https://github.com/topics/android?o=desc&s=updated)
 
 With Android Apps Booster, I would like to help small apps get users and get better known, because I think it's bad that great projects got stuck because they struggle to get visibility.
 
