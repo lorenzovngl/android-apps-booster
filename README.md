@@ -26,6 +26,7 @@ If your app meets the requirements and you would like it to appear in this list,
 
 ## From 1K to 5K downloads
 
-| App Name | Description | Downloads | Last Commit |
-|----------|-------------|-----------|-------------|
-| [Nice Places](https://github.com/niceplaces/android-app) | Discover the culture around you - Nice Places helps you discover points of interest in your area, while giving you a brief history and much more! | ![Play Store](https://img.shields.io/badge/-1K%2B-green?logo=googleplay) ![GitHub all releases](https://img.shields.io/github/downloads/niceplaces/android-app/total?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/niceplaces/android-app?label=) |
+| App Name                                                          | Description | Downloads | Last Commit |
+|-------------------------------------------------------------------|-------------|-----------|-------------|
+| [Nice Places](https://github.com/niceplaces/android-app)          | Discover the culture around you - Nice Places helps you discover points of interest in your area, while giving you a brief history and much more! | ![Play Store](https://img.shields.io/badge/-1K%2B-green?logo=googleplay) ![GitHub all releases](https://img.shields.io/github/downloads/niceplaces/android-app/total?logo=github&label=) | ![GitHub last commit](https://img.shields.io/github/last-commit/niceplaces/android-app?label=) |
+| [Life Progress](https://github.com/Bartozo/Life-Progress-Android) | Friendly reminder that you're not gonna live forever. | ![Play Store](https://img.shields.io/badge/-1K%2B-green?logo=googleplay) | ![GitHub last commit](https://img.shields.io/github/last-commit/Bartozo/Life-Progress-Android?label=) |
